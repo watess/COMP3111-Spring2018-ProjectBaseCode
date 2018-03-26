@@ -1,6 +1,6 @@
 # HKUST COMP3111 Software Engineering (Spring 2018)
 
-Team name: Face Roll Keyboard
+Team Name: Face Roll Keyboard
 
 Team Members:
 
