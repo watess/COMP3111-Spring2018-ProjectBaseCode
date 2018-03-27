@@ -1,5 +1,5 @@
 # HKUST COMP3111 Software Engineering (Spring 2018)
-
+This is the modified READ.ME for fred developer
 Team Name: Face Roll Keyboard
 
 
